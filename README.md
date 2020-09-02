@@ -1,1 +1,1 @@
-http://share.payoneer.com/nav/puusR2TsqX9Uz7cePxuz4NdZfujPAbhy0CnQw5nUwQRKsfdaCAPXMpX_XLA5yPBDpiJ72rXAB7AM03Nhr5uUqw2
+https://www.paypal.com/paypalme/saibalkabir?fbclid=IwAR33bOEMcSerEHQTV93rrzUUJv5knyyvJnyVs2-rt50SBvvDqXlzhRGPg-Y

@@ -1,5 +1,9 @@
 <?php
 
+
+var $components = array('Session');
+
+
 /**
  * DefaultModule the default authentication module, using AuthComponent
  *
